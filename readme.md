@@ -1,0 +1,1 @@
+The code for the paper "Improved Brain Age Estimation with Slice-based Set Networks" has moved. Please see https://github.com/umgupta/2d-slice-set-networks for the code. To reproduce the exact experiments of the paper, see [v1.0 release](https://github.com/umgupta/2d-slice-set-networks/releases/tag/v1.0).
